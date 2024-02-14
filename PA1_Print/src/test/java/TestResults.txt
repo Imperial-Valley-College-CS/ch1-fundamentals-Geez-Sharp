@@ -1,0 +1,30 @@
+****Print - 1****
+	Class: Print.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****PrintF - 1****
+	Class: PrintF.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****PrintF - 2****
+	Class: PrintF.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****StringFormat - 1****
+	Class: StringFormat.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****StringFormat - 2****
+	Class: StringFormat.java
+	Method: main
+	Input(s): null
+	Passed: true
+

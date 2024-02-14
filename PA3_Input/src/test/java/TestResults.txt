@@ -1,0 +1,108 @@
+****PromptUserInfo - 1****
+	Class: PromptUserInfo.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****PromptUserInfo - 2****
+	Class: PromptUserInfo.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****PromptUserInfo - 3****
+	Class: PromptUserInfo.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****PromptUserInfo - 4****
+	Class: PromptUserInfo.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****PromptUserInfo - 5****
+	Class: PromptUserInfo.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****PromptUserInfo - 6****
+	Class: PromptUserInfo.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****CalculateGPA - 1****
+	Class: CalculateGPA.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****CalculateGPA - 2****
+	Class: CalculateGPA.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****CalculateGPA - 3****
+	Class: CalculateGPA.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****CalculateBMI - 1****
+	Class: CalculateBMI.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****CalculateBMI - 2****
+	Class: CalculateBMI.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****CalculateBMI - 3****
+	Class: CalculateBMI.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****CalculateBMI - 4****
+	Class: CalculateBMI.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****DistanceFormula - 1****
+	Class: DistanceFormula.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****DistanceFormula - 2****
+	Class: DistanceFormula.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****DistanceFormula - 3****
+	Class: DistanceFormula.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****DistanceFormula - 4****
+	Class: DistanceFormula.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****DistanceFormula - 5****
+	Class: DistanceFormula.java
+	Method: main
+	Input(s): null
+	Passed: true
+

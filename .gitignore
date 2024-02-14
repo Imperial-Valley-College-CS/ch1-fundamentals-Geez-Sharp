@@ -1,0 +1,16 @@
+PA1_Print/src/main/java/*.java
+PA1_Print/src/main/java/*.class
+PA1_Print/src/test/java/*.java
+PA2_Variables/src/main/java/*.java
+PA2_Variables/src/main/java/*.class
+PA2_Variables/src/test/java/*.java
+PA3_Input/src/main/java/*.java
+PA3_Input/src/main/java/*.class
+PA3_Input/src/test/java/*.java
+PA4_String/src/main/java/*.java
+PA4_String/src/main/java/*.class
+PA4_String/src/test/java/*.java
+test/java/Tester.java
+test/java/TestCase.java
+test/java/Constants.java
+.gitignore

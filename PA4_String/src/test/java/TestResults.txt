@@ -1,0 +1,126 @@
+****ExploreName - 1****
+	Class: ExploreName.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ExploreName - 2****
+	Class: ExploreName.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ExploreName - 3****
+	Class: ExploreName.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ExploreName - 4****
+	Class: ExploreName.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ExploreName - 5****
+	Class: ExploreName.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ValidCredentials - 1****
+	Class: ValidCredentials.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ValidCredentials - 2****
+	Class: ValidCredentials.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****AlphabeticalOrder - 1****
+	Class: AlphabeticalOrder.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****AlphabeticalOrder - 2****
+	Class: AlphabeticalOrder.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****AlphabeticalOrder - 3****
+	Class: AlphabeticalOrder.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****AlphabeticalOrder - 4****
+	Class: AlphabeticalOrder.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****AlphabeticalOrder - 5****
+	Class: AlphabeticalOrder.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ValidEmail - 1****
+	Class: ValidEmail.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ValidEmail - 2****
+	Class: ValidEmail.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ValidEmail - 3****
+	Class: ValidEmail.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ValidEmail - 4****
+	Class: ValidEmail.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ValidEmail - 5****
+	Class: ValidEmail.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ValidEmail - 6****
+	Class: ValidEmail.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ValidEmail - 7****
+	Class: ValidEmail.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ValidEmail - 8****
+	Class: ValidEmail.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****ValidEmail - 9****
+	Class: ValidEmail.java
+	Method: main
+	Input(s): null
+	Passed: true
+

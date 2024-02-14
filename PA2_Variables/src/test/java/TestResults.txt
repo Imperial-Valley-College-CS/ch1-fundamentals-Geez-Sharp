@@ -1,0 +1,90 @@
+****Print - 1****
+	Class: Print.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****Print - 2****
+	Class: Print.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****Print - 3****
+	Class: Print.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****PrintF - 1****
+	Class: PrintF.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****PrintF - 2****
+	Class: PrintF.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****PrintF - 3****
+	Class: PrintF.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****PrintF - 4****
+	Class: PrintF.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****PrintF - 5****
+	Class: PrintF.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****StringFormat - 1****
+	Class: StringFormat.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****StringFormat - 2****
+	Class: StringFormat.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****StringFormat - 3****
+	Class: StringFormat.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****StringFormat - 4****
+	Class: StringFormat.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****StringFormat - 5****
+	Class: StringFormat.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****FahrenheitToCelsius - 1****
+	Class: FahrenheitToCelsius.java
+	Method: main
+	Input(s): null
+	Passed: true
+
+****FahrenheitToCelsius - 2****
+	Class: FahrenheitToCelsius.java
+	Method: main
+	Input(s): null
+	Passed: true
+
